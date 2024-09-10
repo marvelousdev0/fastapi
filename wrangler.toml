@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-09-01"
+
+[vars]
+UPSTASH_REDIS_REST_URL = https://smiling-cattle-62606.upstash.io
+UPSTASH_REDIS_REST_TOKEN = AfSOAAIjcDE5MmNkOGVmMTY2MDE0YmJmOGM5ZTcxMGI3MzRlMTllNXAxMA
